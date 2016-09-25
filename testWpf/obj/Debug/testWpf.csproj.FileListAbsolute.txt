@@ -1,1 +1,14 @@
 G:\500_GitRepos\walni\testWpf\testWpf\bin\Debug\testWpf.exe.config
+G:\500_GitRepos\walni\testWpf\testWpf\bin\Debug\testWpf.exe
+G:\500_GitRepos\walni\testWpf\testWpf\bin\Debug\testWpf.pdb
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\testWpf.csprojResolveAssemblyReference.cache
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\MainWindow.g.cs
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\App.g.cs
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\testWpf_MarkupCompile.cache
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\testWpf_MarkupCompile.lref
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\MainWindow.baml
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\testWpf.g.resources
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\testWpf.Properties.Resources.resources
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\testWpf.csproj.GenerateResource.Cache
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\testWpf.exe
+G:\500_GitRepos\walni\testWpf\testWpf\obj\Debug\testWpf.pdb
